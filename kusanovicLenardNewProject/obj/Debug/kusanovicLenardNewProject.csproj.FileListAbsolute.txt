@@ -1,0 +1,7 @@
+C:\Users\Adminj\source\repos\kusanovicLenardNewProject\kusanovicLenardNewProject\bin\Debug\kusanovicLenardNewProject.exe.config
+C:\Users\Adminj\source\repos\kusanovicLenardNewProject\kusanovicLenardNewProject\bin\Debug\kusanovicLenardNewProject.exe
+C:\Users\Adminj\source\repos\kusanovicLenardNewProject\kusanovicLenardNewProject\bin\Debug\kusanovicLenardNewProject.pdb
+C:\Users\Adminj\source\repos\kusanovicLenardNewProject\kusanovicLenardNewProject\obj\Debug\kusanovicLenardNewProject.csprojAssemblyReference.cache
+C:\Users\Adminj\source\repos\kusanovicLenardNewProject\kusanovicLenardNewProject\obj\Debug\kusanovicLenardNewProject.csproj.CoreCompileInputs.cache
+C:\Users\Adminj\source\repos\kusanovicLenardNewProject\kusanovicLenardNewProject\obj\Debug\kusanovicLenardNewProject.exe
+C:\Users\Adminj\source\repos\kusanovicLenardNewProject\kusanovicLenardNewProject\obj\Debug\kusanovicLenardNewProject.pdb
